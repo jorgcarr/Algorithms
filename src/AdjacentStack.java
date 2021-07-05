@@ -12,6 +12,7 @@ public class AdjacentStack {
             list = new LinkedList<>();
         }
         if (adjacent != 0) {
+            
             list.add(adjacent);
         }
 
